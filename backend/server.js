@@ -11,7 +11,7 @@ dotenv.config();
 const app = express();
 app.use(express.json());
 
-
+// Enable CORS for cross-origin requests
 app.use(
   cors({
     origin: "http://localhost:5173", 
