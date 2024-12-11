@@ -17,6 +17,7 @@ This is a full-stack web application designed for users to browse and book sessi
 ## Features
 
 - **User Authentication**: Secure signup and login system.
+- **Login and Signup**: For user, use  signup buttons and for speaker use join as speaker button.
 - **Speaker Management**: Browse speakers, view their profiles, and book available time slots.
 - **Session Booking**: Select time slots for booking sessions with speakers.
 - **Date and Time Selection**: Users can pick exact time slots for booking sessions.
