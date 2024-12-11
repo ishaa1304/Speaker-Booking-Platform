@@ -1,7 +1,50 @@
-
 # Speaker Booking System
 
+This is a full-stack web application designed for users to browse and book sessions with speakers. The system includes a secure authentication system, speaker management, and a session booking system. Built with React on the frontend, Node.js on the backend, and MongoDB as the database, the application offers an easy-to-use interface for users and admins alike.
+
+## Table of Contents
+
+1. [Features](#features)
+2. [Tech Stack](#tech-stack)
+3. [Installation](#installation)
+4. [Folder Structure](#folder-structure)
+5. [API Documentation](#api-documentation)
+6. [Frontend Details](#frontend-details)
+7. [Backend Details](#backend-details)
+8. [Contributing](#contributing)
+9. [License](#license)
+
+## Features
+
+- **User Authentication**: Secure signup and login system.
+- **Speaker Management**: Browse speakers, view their profiles, and book available time slots.
+- **Session Booking**: Select time slots for booking sessions with speakers.
+- **Admin Features**: Admin can manage speakers, view booked sessions, and modify availability.
+- **Date and Time Selection**: Users can pick exact time slots for booking sessions.
+
+## Tech Stack
+
+- **Frontend**: 
+  - React
+  - Tailwind CSS
+  - Lucide Icons (for the calendar icon)
+- **Backend**: 
+  - Node.js with Express
+  - MongoDB (NoSQL database)
+  - JWT for user authentication
+- **Tools**:
+  - Postman for API documentation and testing
+  - Git for version control
+  - GitHub for project hosting
+
 ## Installation
+
+### Prerequisites
+
+Before starting, ensure you have the following installed:
+- [Node.js](https://nodejs.org/) (v14 or higher)
+- [MongoDB](https://www.mongodb.com/) (or use [MongoDB Atlas](https://www.mongodb.com/cloud/atlas))
+- [Postman](https://www.postman.com/) for API testing
 
 ### Backend Installation
 
